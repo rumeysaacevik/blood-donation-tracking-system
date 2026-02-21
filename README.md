@@ -1,4 +1,4 @@
-# 🩸 Blood Donation Tracking System
+#  Blood Donation Tracking System
 
 This project is a **C++ based Blood Donation Tracking System** developed as part of my early university coursework to practice **object-oriented programming (OOP)** concepts and file-based data management.
 
@@ -6,7 +6,7 @@ The system allows managing **donors, patients, and blood stock** through a struc
 
 ---
 
-## 🧩 Project Scenario
+##  Project Scenario
 
 The application simulates a simple blood donation system used in a hospital or blood bank environment.
 
@@ -18,7 +18,7 @@ The system ensures donor eligibility checks and maintains blood group stock leve
 
 ---
 
-## 📌 Features
+##  Features
 
 - Donor registration and information management
 - Blood donation tracking
@@ -30,7 +30,7 @@ The system ensures donor eligibility checks and maintains blood group stock leve
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C++
 - Object-Oriented Programming (OOP)
@@ -40,7 +40,7 @@ The system ensures donor eligibility checks and maintains blood group stock leve
 
 ---
 
-## 🧱 System Design
+##  System Design
 
 The project is structured using multiple classes, each responsible for a specific role:
 
@@ -64,7 +64,7 @@ The project is structured using multiple classes, each responsible for a specifi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The project consists of multiple `.cpp` and `.h` files including:
 
@@ -77,7 +77,7 @@ Each class is separated into header and source files to maintain **clean and mod
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained experience in:
 
@@ -89,6 +89,6 @@ Through this project, I gained experience in:
 
 ---
 
-## 📚 Notes
+##  Notes
 
 This project represents my **early-stage programming experience** and is preserved to demonstrate my foundational knowledge in C++ and object-oriented software design.
